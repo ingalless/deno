@@ -1,0 +1,81 @@
+{
+  "_id": "@types/cacache",
+  "_rev": "359-33ca0750aba4e01a30ca9812fe739f00",
+  "name": "@types/cacache",
+  "dist-tags": { "latest": "17.0.2" },
+  "versions": {
+    "17.0.2": {
+      "name": "@types/cacache",
+      "version": "17.0.2",
+      "license": "MIT",
+      "_id": "@types/cacache@17.0.2",
+      "maintainers": [
+        {
+          "name": "types",
+          "email": "ts-npm-types@microsoft.com"
+        }
+      ],
+      "contributors": [
+        {
+          "url": "https://github.com/ffflorian",
+          "name": "Florian Imdahl",
+          "githubUsername": "ffflorian"
+        }
+      ],
+      "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cacache",
+      "dist": {
+        "shasum": "1b4b45d0d39a21248459e8d7e39f0ae66a2a1c14",
+        "tarball": "https://registry.npmjs.org/@types/cacache/-/cacache-17.0.2.tgz",
+        "fileCount": 5,
+        "integrity": "sha512-IrqHzVX2VRMDQQKa7CtKRnuoCLdRJiLW6hWU+w7i7+AaQ0Ii5bKwJxd5uRK4zBCyrHd3tG6G8zOm2LplxbSfQg==",
+        "signatures": [
+          {
+            "sig": "MEUCIAcXOX+WVwOByMIiUa1HSvw0JtsIVR7XYix5cn+YqCRmAiEAvIaFO4ZcOpeM650te87kY5973Jp93AzlxN/9/qRxu4g=",
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+          }
+        ],
+        "unpackedSize": 16768
+      },
+      "main": "",
+      "types": "index.d.ts",
+      "scripts": {
+
+      },
+      "_npmUser": {
+        "name": "types",
+        "email": "ts-npm-types@microsoft.com"
+      },
+      "repository": {
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "type": "git",
+        "directory": "types/cacache"
+      },
+      "description": "TypeScript definitions for cacache",
+      "directories": {
+
+      },
+      "dependencies": {
+        "@types/node": "*"
+      },
+      "_hasShrinkwrap": false,
+      "typeScriptVersion": "4.5",
+      "_npmOperationalInternal": {
+        "tmp": "tmp/cacache_17.0.2_1699316077831_0.13448561607870535",
+        "host": "s3://npm-registry-packages"
+      },
+      "typesPublisherContentHash": "daf9932944ba6f73403a7f8d0af5775ebda2a2f6f545c6d54ed9bb7d8f0b4a42"
+    }
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cacache",
+  "repository": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "type": "git",
+    "directory": "types/cacache"
+  },
+  "description": "TypeScript definitions for cacache",
+  "readmeFilename": "",
+  "users": {
+    "flumpus-dev": true
+  }
+}
